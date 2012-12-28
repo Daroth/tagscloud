@@ -7,7 +7,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    name="Bookmark",
+    name="tagscloud",
     version="0.0.1",
     packages=find_packages(),
     author='Daroth',
